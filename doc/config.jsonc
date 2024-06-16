@@ -1,0 +1,13 @@
+{
+	"boto": {
+		// "region_name": "",
+		// "profile_name": ""
+	},
+	"snapshot-instance": [
+		{
+			"instance-name": "Ubuntu-1",
+			"prefix": "LIGHTSNAP_Ubuntu-1_",
+			"nb-copy": 3
+		}
+	]
+}
